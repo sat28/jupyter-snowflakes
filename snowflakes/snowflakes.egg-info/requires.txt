@@ -1,0 +1,4 @@
+SQLAlchemy
+snowflake-connector-python
+pandas
+snowflake-sqlalchemy

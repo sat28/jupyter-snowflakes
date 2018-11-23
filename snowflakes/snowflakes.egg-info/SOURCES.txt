@@ -1,0 +1,5 @@
+snowflakes.egg-info/PKG-INFO
+snowflakes.egg-info/SOURCES.txt
+snowflakes.egg-info/dependency_links.txt
+snowflakes.egg-info/requires.txt
+snowflakes.egg-info/top_level.txt
